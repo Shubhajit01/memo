@@ -1,0 +1,6 @@
+{
+    "prettier.documentSelectors": [
+        "**/*.svelte"
+    ],
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
